@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+
+path: ../datasets/data_example # dataset root dir
+train: images/train
+val: images/train
+
+#number of classes
+nc: 4
+
+#class names
+names: ['phone','person','pad','book']  
+
