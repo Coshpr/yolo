@@ -1,0 +1,26 @@
+<annotation>
+	<folder>my_data</folder>
+	<filename>86.jpg</filename>
+	<path>/home/river/PycharmProjects/yolov5/pythonProject/yolo_v5/my_data/86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>186</ymin>
+			<xmax>579</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>
