@@ -1,6 +1,7 @@
 
 checkpoints/
-datasets/
+datasets/coco128/
+datasets/phubber/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

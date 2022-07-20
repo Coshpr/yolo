@@ -54,3 +54,9 @@ Organize your train and val images and labels according to the example below. YO
 ```
 ![dataset_folder](resources/custom_data_folder_show.png)
 
+
+## 训练
+```shell
+python train.py --cfg ./models/yolov5s.yaml --data ./data/phubber.yaml --weights ./checkpoints/yolov5s.pt --img 640 --epochs 10
+
+```
