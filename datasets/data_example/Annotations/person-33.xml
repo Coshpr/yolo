@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>person-33.jpg</filename>
+	<path>C:\Users\h1412\Documents\yolo_v5\训练集\image\person-33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>396</ymin>
+			<xmax>792</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

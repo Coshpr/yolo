@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>book15.jpg</filename>
+	<path>C:\Users\h1412\Documents\yolo_v5\手持物数据集\image\book15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>43</ymin>
+			<xmax>401</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>pad21.jpg</filename>
+	<path>C:\Users\h1412\Documents\yolo_v5\手持物数据集\image\pad21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>81</ymin>
+			<xmax>641</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

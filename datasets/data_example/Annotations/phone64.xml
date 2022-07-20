@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>phone64.jpg</filename>
+	<path>C:\Users\h1412\Documents\yolo_v5\手持物数据集\image\phone64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>66</ymin>
+			<xmax>835</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>
