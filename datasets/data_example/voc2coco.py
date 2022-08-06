@@ -76,10 +76,10 @@ def split_train_test_val(anno_dir=None, out_dir=None):
     trainval = random.sample(list_index, tv)
     train = random.sample(trainval, tr)
 
-    file_trainval = open(txt_save_path + '\\trainval.txt', 'w')
-    file_test = open(txt_save_path + '\\test.txt', 'w')
-    file_train = open(txt_save_path + '\\train.txt', 'w')
-    file_val = open(txt_save_path + '\\val.txt', 'w')
+    file_trainval = open(os.path.join(txt_save_path, "trainval.txt"), 'w')
+    file_test = open(os.path.join(txt_save_path, "test.txt"), 'w')
+    file_train = open(os.path.join(txt_save_path, 'train.txt'), 'w')
+    file_val = open(os.path.join(txt_save_path, 'val.txt'), 'w')
 
     for i in list_index:
         name = total_xml[i][:-4] + '\n'
